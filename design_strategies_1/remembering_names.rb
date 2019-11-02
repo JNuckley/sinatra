@@ -1,3 +1,3 @@
 def track_motivation(name)
-  "Motivation stored!"
+  'Motivation stored!'
 end
